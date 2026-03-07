@@ -8,7 +8,7 @@ subtitle: <a href="/research/">Research</a> · <a href="/people/">People</a> · 
 
 profile:
   align: right
-  image: lab_photo.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Husheng Li, Principal Investigator</p>
