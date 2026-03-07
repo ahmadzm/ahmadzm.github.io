@@ -3,8 +3,7 @@ cv:
   label: Research Laboratory
   email: husheng@purdue.edu
   location: West Lafayette, IN
-  image: ""
-  summary: Interdisciplinary lab at Purdue University focusing on UAV sensing, joint communication–radar systems, and cyber-physical systems.
+  summary: Purdue University research group specializing in UAV sensing and joint communications.
 
   social_networks:
     - network: X
