@@ -9,6 +9,6 @@ scholar_userid: pM3wc_YAAAAJ # Google Scholar ID for Husheng Li
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # lab-specific additional link
-  logo: ""
+  logo: "fa-solid fa-building-columns"
   title: "Purdue"
   url: https://www.purdue.edu/
