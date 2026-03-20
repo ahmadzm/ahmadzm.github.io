@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-20'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
@@ -314,7 +314,7 @@ papers:
     title: 'Need-based communication for smart grid: When to inquire power price?'
     year: '2010'
   pM3wc_YAAAAJ:BvbJ36a9xgsC:
-    citations: 400
+    citations: 401
     title: 'Time synchronization attack in smart grid: Impact and analysis'
     year: '2013'
   pM3wc_YAAAAJ:BxOedqCeNo0C:
@@ -474,7 +474,7 @@ papers:
     title: Positioning via spectrum sensing using multidimensional scaling and metric learning with an application in millimeter wave networks
     year: '2018'
   pM3wc_YAAAAJ:IWHjjKOFINEC:
-    citations: 144
+    citations: 145
     title: Multiagent-learning for aloha-like spectrum access in cognitive radio systems
     year: '2010'
   pM3wc_YAAAAJ:IWjwvGYIK2oC:
@@ -546,7 +546,7 @@ papers:
     title: Defense against Primary User Emulation Attacks in the Wireless Cognitive Sensor Networks of Smart Grids
     year: '2012'
   pM3wc_YAAAAJ:LOUAI8Maf04C:
-    citations: 32
+    citations: 33
     title: Message passing based distributed learning for joint resource allocation in millimeter wave heterogeneous networks
     year: '2019'
   pM3wc_YAAAAJ:LPThKXBVh8AC:
@@ -558,7 +558,7 @@ papers:
     title: Adaptive modulation in networked control systems with application in smart grids
     year: '2013'
   pM3wc_YAAAAJ:LRFP056OPQYC:
-    citations: 124
+    citations: 125
     title: Effect of water-sediment regulation of the Xiaolangdi reservoir on the concentrations, characteristics, and fluxes of suspended sediment and organic carbon in the Yellow River
     year: '2016'
   pM3wc_YAAAAJ:Liyi5BL3lGIC:
@@ -602,7 +602,7 @@ papers:
     title: Learning the spectrum using collaborative filtering in directional millimeter wave networks
     year: '2017'
   pM3wc_YAAAAJ:MTvNnY4oB4UC:
-    citations: 551
+    citations: 552
     title: 'Indoor positioning systems based on visible light communication: State of the art'
     year: '2017'
   pM3wc_YAAAAJ:Mojj43d5GZwC:
@@ -650,7 +650,7 @@ papers:
     title: 'Reinforcement learning for energy efficient wireless transmission: Green communications for a green hand transmitter'
     year: '2012'
   pM3wc_YAAAAJ:OQl_d5IwB8YC:
-    citations: 208
+    citations: 207
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:OU6Ihb5iCvQC:
@@ -686,7 +686,7 @@ papers:
     title: 'Sphere packing analysis for performance trade-off in joint communications and sensing-part i: General principle'
     year: '2024'
   pM3wc_YAAAAJ:QC1gR0-g_BgC:
-    citations: 44
+    citations: 45
     title: Deep reinforcement learning of cell movement in the early stage of C.elegans embryogenesis
     year: '2018'
   pM3wc_YAAAAJ:QIV2ME_5wuYC:
@@ -886,7 +886,7 @@ papers:
     title: "Unified PMU Placement for Observability and Bad Data Detection in State Estimation.... B. Gou and RG Kavasseri 2573 Wide Area System Islanding Contingency Detecting and Warning \u2026"
     year: Unknown Year
   pM3wc_YAAAAJ:WbkHhVStYXYC:
-    citations: 64
+    citations: 65
     title: State estimation over a semi-Markov model based cognitive radio system
     year: '2012'
   pM3wc_YAAAAJ:WgBxaE7EUScC:
@@ -970,7 +970,7 @@ papers:
     title: Communication requirement for reliable and secure state estimation and control in smart grid
     year: '2011'
   pM3wc_YAAAAJ:_-QPzy9dQywC:
-    citations: 9
+    citations: 10
     title: Cell neighbor determination in the metazoan embryo system
     year: '2017'
   pM3wc_YAAAAJ:_FxGoFyzp5QC:
@@ -1114,7 +1114,7 @@ papers:
     title: 'Wireless communication for controlling microgrids: Co-simulation and performance evaluation'
     year: '2013'
   pM3wc_YAAAAJ:fBfQaFQro1EC:
-    citations: 97
+    citations: 98
     title: 'Socially optimal queuing control in cognitive radio networks subject to service interruptions: To queue or not to queue?'
     year: '2011'
   pM3wc_YAAAAJ:fDGgXDFiZ8cC:
@@ -1134,7 +1134,7 @@ papers:
     title: Random Beamforming in Millimeter Wave Mobile and Ad hoc Networks
     year: Unknown Year
   pM3wc_YAAAAJ:g5h4crcM1N4C:
-    citations: 23
+    citations: 24
     title: Absolute value cumulating based spectrum sensing with Laplacian noise in cognitive radio networks
     year: '2015'
   pM3wc_YAAAAJ:g6z5zl4k3DgC:
@@ -1142,7 +1142,7 @@ papers:
     title: Delay Sensitive Information Transmission over Wireless Channels in Smart Grid
     year: Unknown Year
   pM3wc_YAAAAJ:gHzeFJ_WuCsC:
-    citations: 15
+    citations: 16
     title: Secure integrated sensing and communications (S-ISAC) network
     year: '2024'
   pM3wc_YAAAAJ:gOXF9J3PlnEC:
@@ -1314,11 +1314,11 @@ papers:
     title: 'ISAC-Motivated Interference Elimination in Wireless Communication Networks-Part II: Performance Analysis'
     year: '2023'
   pM3wc_YAAAAJ:lCzQINcJmSsC:
-    citations: 208
+    citations: 207
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:lDjdc_zZTkYC:
-    citations: 61
+    citations: 62
     title: "A cyber\u2013physical\u2013social perspective on future smart distribution systems"
     year: '2022'
   pM3wc_YAAAAJ:lSLTfruPkqcC:
@@ -1426,7 +1426,7 @@ papers:
     title: 'Time stamp attack in smart grid: Physical mechanism and damage analysis'
     year: '2012'
   pM3wc_YAAAAJ:prKdS1S5QkMC:
-    citations: 210
+    citations: 213
     title: 'Real-time detection of false data injection in smart grid networks: An adaptive CUSUM method and analysis'
     year: '2014'
   pM3wc_YAAAAJ:ptKmfjyPmtwC:
@@ -1554,7 +1554,7 @@ papers:
     title: 'Protecting cognitive radio networks against primary users: a backup path approach'
     year: '2011'
   pM3wc_YAAAAJ:u_MDJdmB8EcC:
-    citations: 291
+    citations: 297
     title: Learning-based predictive beamforming for integrated sensing and communication in vehicular networks
     year: '2022'
   pM3wc_YAAAAJ:ufrVoPGSRksC:
@@ -1642,7 +1642,7 @@ papers:
     title: Pooling Based Coexistence Scheme for D2D Communication Underlaying Cellular Networks
     year: '2016'
   pM3wc_YAAAAJ:xXQF3ZFlQEcC:
-    citations: 6
+    citations: 7
     title: Frequency multiplexing and waveform synthesis in joint communications and sensing
     year: '2022'
   pM3wc_YAAAAJ:x_nEMsjMe4QC:
