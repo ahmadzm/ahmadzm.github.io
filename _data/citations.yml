@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-01'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
@@ -314,7 +314,7 @@ papers:
     title: 'Need-based communication for smart grid: When to inquire power price?'
     year: '2010'
   pM3wc_YAAAAJ:BvbJ36a9xgsC:
-    citations: 401
+    citations: 402
     title: 'Time synchronization attack in smart grid: Impact and analysis'
     year: '2013'
   pM3wc_YAAAAJ:BxOedqCeNo0C:
@@ -602,7 +602,7 @@ papers:
     title: Learning the spectrum using collaborative filtering in directional millimeter wave networks
     year: '2017'
   pM3wc_YAAAAJ:MTvNnY4oB4UC:
-    citations: 553
+    citations: 554
     title: 'Indoor positioning systems based on visible light communication: State of the art'
     year: '2017'
   pM3wc_YAAAAJ:Mojj43d5GZwC:
@@ -1238,7 +1238,7 @@ papers:
     title: IJCNC 01
     year: Unknown Year
   pM3wc_YAAAAJ:iJ9CcAdTEy0C:
-    citations: 2
+    citations: 3
     title: 'Cognitive Radio Communication and Networking: Principles and Practice'
     year: '2013'
   pM3wc_YAAAAJ:iLjPvThLa1EC:
