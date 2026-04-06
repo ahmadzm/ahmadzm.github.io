@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-06'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
@@ -314,7 +314,7 @@ papers:
     title: 'Need-based communication for smart grid: When to inquire power price?'
     year: '2010'
   pM3wc_YAAAAJ:BvbJ36a9xgsC:
-    citations: 402
+    citations: 405
     title: 'Time synchronization attack in smart grid: Impact and analysis'
     year: '2013'
   pM3wc_YAAAAJ:BxOedqCeNo0C:
@@ -446,7 +446,7 @@ papers:
     title: Game Theory for Networking Applications
     year: '2019'
   pM3wc_YAAAAJ:HDshCWvjkbEC:
-    citations: 25
+    citations: 26
     title: Compressive sensing TDOA for UWB positioning systems
     year: '2011'
   pM3wc_YAAAAJ:HE397vMXCloC:
@@ -602,7 +602,7 @@ papers:
     title: Learning the spectrum using collaborative filtering in directional millimeter wave networks
     year: '2017'
   pM3wc_YAAAAJ:MTvNnY4oB4UC:
-    citations: 554
+    citations: 555
     title: 'Indoor positioning systems based on visible light communication: State of the art'
     year: '2017'
   pM3wc_YAAAAJ:Mojj43d5GZwC:
@@ -1318,7 +1318,7 @@ papers:
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:lDjdc_zZTkYC:
-    citations: 62
+    citations: 63
     title: "A cyber\u2013physical\u2013social perspective on future smart distribution systems"
     year: '2022'
   pM3wc_YAAAAJ:lSLTfruPkqcC:
@@ -1454,7 +1454,7 @@ papers:
     title: Interference management in mobile joint communication and radar networks
     year: '2023'
   pM3wc_YAAAAJ:qfe1Ex3B87sC:
-    citations: 104
+    citations: 105
     title: Securing collaborative spectrum sensing against untrustworthy secondary users in cognitive radio networks
     year: '2009'
   pM3wc_YAAAAJ:qjMakFHDy7sC:
@@ -1554,7 +1554,7 @@ papers:
     title: 'Protecting cognitive radio networks against primary users: a backup path approach'
     year: '2011'
   pM3wc_YAAAAJ:u_MDJdmB8EcC:
-    citations: 298
+    citations: 300
     title: Learning-based predictive beamforming for integrated sensing and communication in vehicular networks
     year: '2022'
   pM3wc_YAAAAJ:ufrVoPGSRksC:
