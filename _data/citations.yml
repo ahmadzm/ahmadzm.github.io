@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-13'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
@@ -530,7 +530,7 @@ papers:
     title: Communication complexity for distributed scheduling in wireless ad hoc networks
     year: '2008'
   pM3wc_YAAAAJ:KEHW5XCvxlQC:
-    citations: 493
+    citations: 492
     title: A Denial-of-Service Jamming Game for Remote State Monitoring in Smart grid
     year: Unknown Year
   pM3wc_YAAAAJ:KT8ZRUJCfZgC:
@@ -650,7 +650,7 @@ papers:
     title: 'Reinforcement learning for energy efficient wireless transmission: Green communications for a green hand transmitter'
     year: '2012'
   pM3wc_YAAAAJ:OQl_d5IwB8YC:
-    citations: 208
+    citations: 207
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:OU6Ihb5iCvQC:
@@ -758,7 +758,7 @@ papers:
     title: 'Restless watchdog: Monitoring multiple bands with blind period in cognitive radio systems'
     year: '2009'
   pM3wc_YAAAAJ:Se3iqnhoufwC:
-    citations: 168
+    citations: 169
     title: 'Catch me if you can: An abnormality detection approach for collaborative spectrum sensing in cognitive radio networks'
     year: '2010'
   pM3wc_YAAAAJ:SmHiq6L9e_wC:
@@ -1046,7 +1046,7 @@ papers:
     title: Signaling separate unicast and broadcast information with a common pilot
     year: '2015'
   pM3wc_YAAAAJ:d1gkVwhDpl0C:
-    citations: 120
+    citations: 121
     title: Quickest spectrum sensing in cognitive radio
     year: '2008'
   pM3wc_YAAAAJ:dR4LSGKtw-IC:
@@ -1314,7 +1314,7 @@ papers:
     title: 'ISAC-Motivated Interference Elimination in Wireless Communication Networks-Part II: Performance Analysis'
     year: '2023'
   pM3wc_YAAAAJ:lCzQINcJmSsC:
-    citations: 208
+    citations: 207
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:lDjdc_zZTkYC:
@@ -1554,11 +1554,11 @@ papers:
     title: 'Protecting cognitive radio networks against primary users: a backup path approach'
     year: '2011'
   pM3wc_YAAAAJ:u_MDJdmB8EcC:
-    citations: 300
+    citations: 301
     title: Learning-based predictive beamforming for integrated sensing and communication in vehicular networks
     year: '2022'
   pM3wc_YAAAAJ:ufrVoPGSRksC:
-    citations: 63
+    citations: 64
     title: An FPGA implementation for solving least square problem
     year: '2009'
   pM3wc_YAAAAJ:umqufdRvDiIC:
