@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-17'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
     title: Terrestrial Wireless Communication/Broadcasting Technologies-Automatic Clustering Collaborative Compressed Spectrum Sensing in Wide-Band Heterogeneous Cognitive Radio Networks
     year: '2011'
   pM3wc_YAAAAJ:-YxgYmOPpg0C:
-    citations: 3
+    citations: 4
     title: Power allocation and spectral efficiency in multirate DS-CDMA systems without channel state information at transmitters
     year: '2004'
   pM3wc_YAAAAJ:-f6ydRqryjwC:
@@ -602,7 +602,7 @@ papers:
     title: Learning the spectrum using collaborative filtering in directional millimeter wave networks
     year: '2017'
   pM3wc_YAAAAJ:MTvNnY4oB4UC:
-    citations: 555
+    citations: 553
     title: 'Indoor positioning systems based on visible light communication: State of the art'
     year: '2017'
   pM3wc_YAAAAJ:Mojj43d5GZwC:
@@ -686,7 +686,7 @@ papers:
     title: 'Sphere packing analysis for performance trade-off in joint communications and sensing-part i: General principle'
     year: '2024'
   pM3wc_YAAAAJ:QC1gR0-g_BgC:
-    citations: 45
+    citations: 44
     title: Deep reinforcement learning of cell movement in the early stage of C.elegans embryogenesis
     year: '2018'
   pM3wc_YAAAAJ:QIV2ME_5wuYC:
@@ -886,7 +886,7 @@ papers:
     title: "Unified PMU Placement for Observability and Bad Data Detection in State Estimation.... B. Gou and RG Kavasseri 2573 Wide Area System Islanding Contingency Detecting and Warning \u2026"
     year: Unknown Year
   pM3wc_YAAAAJ:WbkHhVStYXYC:
-    citations: 65
+    citations: 64
     title: State estimation over a semi-Markov model based cognitive radio system
     year: '2012'
   pM3wc_YAAAAJ:WgBxaE7EUScC:
@@ -914,7 +914,7 @@ papers:
     title: 'A unified multi-functional dynamic spectrum access framework: tutorial, theory and multi-GHz wideband testbed'
     year: '2009'
   pM3wc_YAAAAJ:XLtXma4zydAC:
-    citations: 110
+    citations: 111
     title: 'Cognitive radio communication and networking: Principles and practice'
     year: '2012'
   pM3wc_YAAAAJ:XVBKMArtY_gC:
@@ -934,7 +934,7 @@ papers:
     title: 'Nobody but you: Sensor selection for voltage regulation in smart grid'
     year: '2011'
   pM3wc_YAAAAJ:XsdrJKXBvEcC:
-    citations: 6
+    citations: 7
     title: 'Time Synchronization Attack in Smart Grid-Part II: Cross Layer Detection Mechanism'
     year: '2012'
   pM3wc_YAAAAJ:Y-CEfswgrBAC:
@@ -970,7 +970,7 @@ papers:
     title: Communication requirement for reliable and secure state estimation and control in smart grid
     year: '2011'
   pM3wc_YAAAAJ:_-QPzy9dQywC:
-    citations: 10
+    citations: 9
     title: Cell neighbor determination in the metazoan embryo system
     year: '2017'
   pM3wc_YAAAAJ:_FxGoFyzp5QC:
@@ -1114,7 +1114,7 @@ papers:
     title: 'Wireless communication for controlling microgrids: Co-simulation and performance evaluation'
     year: '2013'
   pM3wc_YAAAAJ:fBfQaFQro1EC:
-    citations: 98
+    citations: 99
     title: 'Socially optimal queuing control in cognitive radio networks subject to service interruptions: To queue or not to queue?'
     year: '2011'
   pM3wc_YAAAAJ:fDGgXDFiZ8cC:
@@ -1526,7 +1526,7 @@ papers:
     title: Joint electrical load modeling and forecasting based on sparse bayesian learning for the smart grid
     year: '2011'
   pM3wc_YAAAAJ:thyth0UfN58C:
-    citations: 7
+    citations: 8
     title: 'Ghost image due to mmWave radar interference: Experiment, mitigation and leverage'
     year: '2020'
   pM3wc_YAAAAJ:tkaPQYYpVKoC:
@@ -1554,7 +1554,7 @@ papers:
     title: 'Protecting cognitive radio networks against primary users: a backup path approach'
     year: '2011'
   pM3wc_YAAAAJ:u_MDJdmB8EcC:
-    citations: 301
+    citations: 302
     title: Learning-based predictive beamforming for integrated sensing and communication in vehicular networks
     year: '2022'
   pM3wc_YAAAAJ:ufrVoPGSRksC:
