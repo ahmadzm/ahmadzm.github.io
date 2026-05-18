@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-18'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
@@ -318,7 +318,7 @@ papers:
     title: 'Time synchronization attack in smart grid: Impact and analysis'
     year: '2013'
   pM3wc_YAAAAJ:BxOedqCeNo0C:
-    citations: 71
+    citations: 72
     title: An online technology for measuring icing shape on conductor based on vision and force sensors
     year: '2017'
   pM3wc_YAAAAJ:CBgv6AxxBp0C:
@@ -530,7 +530,7 @@ papers:
     title: Communication complexity for distributed scheduling in wireless ad hoc networks
     year: '2008'
   pM3wc_YAAAAJ:KEHW5XCvxlQC:
-    citations: 492
+    citations: 493
     title: A Denial-of-Service Jamming Game for Remote State Monitoring in Smart grid
     year: Unknown Year
   pM3wc_YAAAAJ:KT8ZRUJCfZgC:
@@ -558,7 +558,7 @@ papers:
     title: Adaptive modulation in networked control systems with application in smart grids
     year: '2013'
   pM3wc_YAAAAJ:LRFP056OPQYC:
-    citations: 127
+    citations: 131
     title: Effect of water-sediment regulation of the Xiaolangdi reservoir on the concentrations, characteristics, and fluxes of suspended sediment and organic carbon in the Yellow River
     year: '2016'
   pM3wc_YAAAAJ:Liyi5BL3lGIC:
@@ -586,7 +586,7 @@ papers:
     title: 'Interdependency analysis of communications and control in networked cyber physical systems: An entropy framework'
     year: '2016'
   pM3wc_YAAAAJ:M3NEmzRMIkIC:
-    citations: 10
+    citations: 11
     title: Combating false reports for secure networked control in smart grid via trustiness evaluation
     year: '2011'
   pM3wc_YAAAAJ:M3ejUd6NZC8C:
@@ -602,7 +602,7 @@ papers:
     title: Learning the spectrum using collaborative filtering in directional millimeter wave networks
     year: '2017'
   pM3wc_YAAAAJ:MTvNnY4oB4UC:
-    citations: 559
+    citations: 561
     title: 'Indoor positioning systems based on visible light communication: State of the art'
     year: '2017'
   pM3wc_YAAAAJ:Mojj43d5GZwC:
@@ -650,7 +650,7 @@ papers:
     title: 'Reinforcement learning for energy efficient wireless transmission: Green communications for a green hand transmitter'
     year: '2012'
   pM3wc_YAAAAJ:OQl_d5IwB8YC:
-    citations: 207
+    citations: 208
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:OU6Ihb5iCvQC:
@@ -974,7 +974,7 @@ papers:
     title: Cell neighbor determination in the metazoan embryo system
     year: '2017'
   pM3wc_YAAAAJ:_FxGoFyzp5QC:
-    citations: 49
+    citations: 48
     title: 'Compressed sensing based UWB receiver: Hardware compressing and FPGA reconstruction'
     year: '2009'
   pM3wc_YAAAAJ:_Ib3u7pdcXQC:
@@ -986,7 +986,7 @@ papers:
     title: Multicast routing for decentralized control of cyber physical systems with an application in smart grid
     year: '2012'
   pM3wc_YAAAAJ:_jjH_pYez2EC:
-    citations: 16
+    citations: 17
     title: Delay analysis and optimal access strategy in multichannel dynamic spectrum access system
     year: '2012'
   pM3wc_YAAAAJ:_kc_bZDykSQC:
@@ -1046,7 +1046,7 @@ papers:
     title: Signaling separate unicast and broadcast information with a common pilot
     year: '2015'
   pM3wc_YAAAAJ:d1gkVwhDpl0C:
-    citations: 121
+    citations: 122
     title: Quickest spectrum sensing in cognitive radio
     year: '2008'
   pM3wc_YAAAAJ:dR4LSGKtw-IC:
@@ -1186,7 +1186,7 @@ papers:
     title: 'Belief propagation based spectrum sensing subject to dynamic primary user activities: Phantom of quickest detection'
     year: '2013'
   pM3wc_YAAAAJ:hMod-77fHWUC:
-    citations: 140
+    citations: 141
     title: Defeating primary user emulation attacks using belief propagation in cognitive radio networks
     year: '2012'
   pM3wc_YAAAAJ:hMsQuOkrut0C:
@@ -1314,11 +1314,11 @@ papers:
     title: 'ISAC-Motivated Interference Elimination in Wireless Communication Networks-Part II: Performance Analysis'
     year: '2023'
   pM3wc_YAAAAJ:lCzQINcJmSsC:
-    citations: 207
+    citations: 208
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:lDjdc_zZTkYC:
-    citations: 66
+    citations: 69
     title: "A cyber\u2013physical\u2013social perspective on future smart distribution systems"
     year: '2022'
   pM3wc_YAAAAJ:lSLTfruPkqcC:
@@ -1426,11 +1426,11 @@ papers:
     title: 'Time stamp attack in smart grid: Physical mechanism and damage analysis'
     year: '2012'
   pM3wc_YAAAAJ:prKdS1S5QkMC:
-    citations: 214
+    citations: 216
     title: 'Real-time detection of false data injection in smart grid networks: An adaptive CUSUM method and analysis'
     year: '2014'
   pM3wc_YAAAAJ:ptKmfjyPmtwC:
-    citations: 63
+    citations: 64
     title: Optimal eigenvalue weighting detection for multi-antenna cognitive radio networks
     year: '2016'
   pM3wc_YAAAAJ:pyW8ca7W8N0C:
@@ -1466,7 +1466,7 @@ papers:
     title: "Attacks Using Belief Propagation in Cognitive Radio Networks\u2016 IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS"
     year: Unknown Year
   pM3wc_YAAAAJ:qxL8FJ1GzNcC:
-    citations: 162
+    citations: 163
     title: Defending false data injection attack on smart grid network using adaptive CUSUM test
     year: '2011'
   pM3wc_YAAAAJ:qz_RHJpDe1QC:
@@ -1554,11 +1554,11 @@ papers:
     title: 'Protecting cognitive radio networks against primary users: a backup path approach'
     year: '2011'
   pM3wc_YAAAAJ:u_MDJdmB8EcC:
-    citations: 309
+    citations: 311
     title: Learning-based predictive beamforming for integrated sensing and communication in vehicular networks
     year: '2022'
   pM3wc_YAAAAJ:ufrVoPGSRksC:
-    citations: 65
+    citations: 64
     title: An FPGA implementation for solving least square problem
     year: '2009'
   pM3wc_YAAAAJ:umqufdRvDiIC:
@@ -1642,7 +1642,7 @@ papers:
     title: Pooling Based Coexistence Scheme for D2D Communication Underlaying Cellular Networks
     year: '2016'
   pM3wc_YAAAAJ:xXQF3ZFlQEcC:
-    citations: 7
+    citations: 8
     title: Frequency multiplexing and waveform synthesis in joint communications and sensing
     year: '2022'
   pM3wc_YAAAAJ:x_nEMsjMe4QC:
@@ -1714,6 +1714,6 @@ papers:
     title: Efficient and Secure Spectrum Utilization for Communication & Sensing in UDN by Beamspace Processing
     year: '2022'
   pM3wc_YAAAAJ:zl-nTW-_jeEC:
-    citations: 2
+    citations: 3
     title: 'Trellis shaping for joint communications and sensing: A duality to papr mitigation'
     year: '2024'
