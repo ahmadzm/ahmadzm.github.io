@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-22'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
@@ -314,7 +314,7 @@ papers:
     title: 'Need-based communication for smart grid: When to inquire power price?'
     year: '2010'
   pM3wc_YAAAAJ:BvbJ36a9xgsC:
-    citations: 408
+    citations: 409
     title: 'Time synchronization attack in smart grid: Impact and analysis'
     year: '2013'
   pM3wc_YAAAAJ:BxOedqCeNo0C:
@@ -554,7 +554,7 @@ papers:
     title: Sensing by leveraging millimeter wave communication networks
     year: '2019'
   pM3wc_YAAAAJ:LPZeul_q3PIC:
-    citations: 25
+    citations: 26
     title: Adaptive modulation in networked control systems with application in smart grids
     year: '2013'
   pM3wc_YAAAAJ:LRFP056OPQYC:
