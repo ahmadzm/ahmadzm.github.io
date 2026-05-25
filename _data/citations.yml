@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-25'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
@@ -310,7 +310,7 @@ papers:
     title: Flexible medium access control (MAC) for ad hoc deployed wireless networks
     year: '2013'
   pM3wc_YAAAAJ:BqipwSGYUEgC:
-    citations: 16
+    citations: 17
     title: 'Need-based communication for smart grid: When to inquire power price?'
     year: '2010'
   pM3wc_YAAAAJ:BvbJ36a9xgsC:
@@ -530,7 +530,7 @@ papers:
     title: Communication complexity for distributed scheduling in wireless ad hoc networks
     year: '2008'
   pM3wc_YAAAAJ:KEHW5XCvxlQC:
-    citations: 493
+    citations: 492
     title: A Denial-of-Service Jamming Game for Remote State Monitoring in Smart grid
     year: Unknown Year
   pM3wc_YAAAAJ:KT8ZRUJCfZgC:
@@ -650,7 +650,7 @@ papers:
     title: 'Reinforcement learning for energy efficient wireless transmission: Green communications for a green hand transmitter'
     year: '2012'
   pM3wc_YAAAAJ:OQl_d5IwB8YC:
-    citations: 208
+    citations: 207
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:OU6Ihb5iCvQC:
@@ -686,7 +686,7 @@ papers:
     title: 'Sphere packing analysis for performance trade-off in joint communications and sensing-part i: General principle'
     year: '2024'
   pM3wc_YAAAAJ:QC1gR0-g_BgC:
-    citations: 45
+    citations: 44
     title: Deep reinforcement learning of cell movement in the early stage of C.elegans embryogenesis
     year: '2018'
   pM3wc_YAAAAJ:QIV2ME_5wuYC:
@@ -886,7 +886,7 @@ papers:
     title: "Unified PMU Placement for Observability and Bad Data Detection in State Estimation.... B. Gou and RG Kavasseri 2573 Wide Area System Islanding Contingency Detecting and Warning \u2026"
     year: Unknown Year
   pM3wc_YAAAAJ:WbkHhVStYXYC:
-    citations: 65
+    citations: 64
     title: State estimation over a semi-Markov model based cognitive radio system
     year: '2012'
   pM3wc_YAAAAJ:WgBxaE7EUScC:
@@ -970,7 +970,7 @@ papers:
     title: Communication requirement for reliable and secure state estimation and control in smart grid
     year: '2011'
   pM3wc_YAAAAJ:_-QPzy9dQywC:
-    citations: 10
+    citations: 9
     title: Cell neighbor determination in the metazoan embryo system
     year: '2017'
   pM3wc_YAAAAJ:_FxGoFyzp5QC:
@@ -1046,7 +1046,7 @@ papers:
     title: Signaling separate unicast and broadcast information with a common pilot
     year: '2015'
   pM3wc_YAAAAJ:d1gkVwhDpl0C:
-    citations: 122
+    citations: 121
     title: Quickest spectrum sensing in cognitive radio
     year: '2008'
   pM3wc_YAAAAJ:dR4LSGKtw-IC:
@@ -1186,7 +1186,7 @@ papers:
     title: 'Belief propagation based spectrum sensing subject to dynamic primary user activities: Phantom of quickest detection'
     year: '2013'
   pM3wc_YAAAAJ:hMod-77fHWUC:
-    citations: 141
+    citations: 142
     title: Defeating primary user emulation attacks using belief propagation in cognitive radio networks
     year: '2012'
   pM3wc_YAAAAJ:hMsQuOkrut0C:
@@ -1314,7 +1314,7 @@ papers:
     title: 'ISAC-Motivated Interference Elimination in Wireless Communication Networks-Part II: Performance Analysis'
     year: '2023'
   pM3wc_YAAAAJ:lCzQINcJmSsC:
-    citations: 208
+    citations: 207
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:lDjdc_zZTkYC:
@@ -1554,7 +1554,7 @@ papers:
     title: 'Protecting cognitive radio networks against primary users: a backup path approach'
     year: '2011'
   pM3wc_YAAAAJ:u_MDJdmB8EcC:
-    citations: 311
+    citations: 313
     title: Learning-based predictive beamforming for integrated sensing and communication in vehicular networks
     year: '2022'
   pM3wc_YAAAAJ:ufrVoPGSRksC:
