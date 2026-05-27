@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-27'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Adaptive quickest change detection with unknown parameter
     year: '2009'
   pM3wc_YAAAAJ:-gKCQx66J1MC:
-    citations: 203
+    citations: 202
     title: 'Bad data injection in smart grid: attack and defense mechanisms'
     year: '2013'
   pM3wc_YAAAAJ:-lDlBIcJJzsC:
@@ -530,7 +530,7 @@ papers:
     title: Communication complexity for distributed scheduling in wireless ad hoc networks
     year: '2008'
   pM3wc_YAAAAJ:KEHW5XCvxlQC:
-    citations: 492
+    citations: 493
     title: A Denial-of-Service Jamming Game for Remote State Monitoring in Smart grid
     year: Unknown Year
   pM3wc_YAAAAJ:KT8ZRUJCfZgC:
@@ -602,7 +602,7 @@ papers:
     title: Learning the spectrum using collaborative filtering in directional millimeter wave networks
     year: '2017'
   pM3wc_YAAAAJ:MTvNnY4oB4UC:
-    citations: 561
+    citations: 563
     title: 'Indoor positioning systems based on visible light communication: State of the art'
     year: '2017'
   pM3wc_YAAAAJ:Mojj43d5GZwC:
@@ -650,7 +650,7 @@ papers:
     title: 'Reinforcement learning for energy efficient wireless transmission: Green communications for a green hand transmitter'
     year: '2012'
   pM3wc_YAAAAJ:OQl_d5IwB8YC:
-    citations: 207
+    citations: 208
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:OU6Ihb5iCvQC:
@@ -890,7 +890,7 @@ papers:
     title: State estimation over a semi-Markov model based cognitive radio system
     year: '2012'
   pM3wc_YAAAAJ:WgBxaE7EUScC:
-    citations: 52
+    citations: 53
     title: Adaptive bistable stochastic resonance aided spectrum sensing
     year: '2014'
   pM3wc_YAAAAJ:Wp0gIr-vW9MC:
@@ -1014,7 +1014,7 @@ papers:
     title: Communication capacity requirement for reliable and secure state estimation in smart grid
     year: '2010'
   pM3wc_YAAAAJ:ax16qXk-rEQC:
-    citations: 182
+    citations: 183
     title: A cross-layer defense mechanism against GPS spoofing attacks on PMUs in smart grids
     year: '2014'
   pM3wc_YAAAAJ:bEWYMUwI8FkC:
@@ -1046,7 +1046,7 @@ papers:
     title: Signaling separate unicast and broadcast information with a common pilot
     year: '2015'
   pM3wc_YAAAAJ:d1gkVwhDpl0C:
-    citations: 121
+    citations: 122
     title: Quickest spectrum sensing in cognitive radio
     year: '2008'
   pM3wc_YAAAAJ:dR4LSGKtw-IC:
@@ -1258,7 +1258,7 @@ papers:
     title: Performance analysis of semiblind channel estimation in long-code DS-CDMA systems
     year: '2006'
   pM3wc_YAAAAJ:j3f4tGmQtD8C:
-    citations: 9
+    citations: 10
     title: 'Collaborative quickest detection in adhoc networks with delay constraint-part I: Two-node network'
     year: '2008'
   pM3wc_YAAAAJ:j8SEvjWlNXcC:
@@ -1314,7 +1314,7 @@ papers:
     title: 'ISAC-Motivated Interference Elimination in Wireless Communication Networks-Part II: Performance Analysis'
     year: '2023'
   pM3wc_YAAAAJ:lCzQINcJmSsC:
-    citations: 207
+    citations: 208
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:lDjdc_zZTkYC:
