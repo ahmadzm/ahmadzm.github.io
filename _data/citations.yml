@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-31'
 papers:
   pM3wc_YAAAAJ:-F2olFd-qnkC:
     citations: 0
     title: Terrestrial Wireless Communication/Broadcasting Technologies-Automatic Clustering Collaborative Compressed Spectrum Sensing in Wide-Band Heterogeneous Cognitive Radio Networks
     year: '2011'
   pM3wc_YAAAAJ:-YxgYmOPpg0C:
-    citations: 4
+    citations: 3
     title: Power allocation and spectral efficiency in multirate DS-CDMA systems without channel state information at transmitters
     year: '2004'
   pM3wc_YAAAAJ:-f6ydRqryjwC:
@@ -78,7 +78,7 @@ papers:
     title: Using MCE algorithm to improve the performance of speaker recognition
     year: '2000'
   pM3wc_YAAAAJ:23IbrMdp7nQC:
-    citations: 1
+    citations: 2
     title: Taming and Leveraging Interference in Mobile Radar Networks
     year: '2020'
   pM3wc_YAAAAJ:23OMmoBQBk8C:
@@ -182,7 +182,7 @@ papers:
     title: Adaptive channel recommendation for opportunistic spectrum access
     year: '2012'
   pM3wc_YAAAAJ:4hFrxpcac9AC:
-    citations: 40
+    citations: 41
     title: 'Frequency-hopping based communication network with multi-level QoSs in smart grid: Code design and performance analysis'
     year: '2012'
   pM3wc_YAAAAJ:4z9AjAXnHeAC:
@@ -294,7 +294,7 @@ papers:
     title: A Multi-layer Security Architecture for Wireless Cognitive Sensor Networks in Smart Grids
     year: '2012'
   pM3wc_YAAAAJ:AimQIn9zGmEC:
-    citations: 8
+    citations: 9
     title: 'Information efficiency of communications for networked control in cyber physical systems: When carnot meets shannon'
     year: '2016'
   pM3wc_YAAAAJ:BEz2JxMiyrUC:
@@ -314,11 +314,11 @@ papers:
     title: 'Need-based communication for smart grid: When to inquire power price?'
     year: '2010'
   pM3wc_YAAAAJ:BvbJ36a9xgsC:
-    citations: 416
+    citations: 415
     title: 'Time synchronization attack in smart grid: Impact and analysis'
     year: '2013'
   pM3wc_YAAAAJ:BxOedqCeNo0C:
-    citations: 72
+    citations: 73
     title: An online technology for measuring icing shape on conductor based on vision and force sensors
     year: '2017'
   pM3wc_YAAAAJ:CBgv6AxxBp0C:
@@ -434,7 +434,7 @@ papers:
     title: Game theory for networks
     year: '2021'
   pM3wc_YAAAAJ:GjQuYujAsN4C:
-    citations: 106
+    citations: 107
     title: 'Communication infrastructure design in cyber physical systems with applications in smart grids: A hybrid system framework'
     year: '2014'
   pM3wc_YAAAAJ:GnPB-g6toBAC:
@@ -474,7 +474,7 @@ papers:
     title: Positioning via spectrum sensing using multidimensional scaling and metric learning with an application in millimeter wave networks
     year: '2018'
   pM3wc_YAAAAJ:IWHjjKOFINEC:
-    citations: 147
+    citations: 148
     title: Multiagent-learning for aloha-like spectrum access in cognitive radio systems
     year: '2010'
   pM3wc_YAAAAJ:IWjwvGYIK2oC:
@@ -490,7 +490,7 @@ papers:
     title: Supervised and Unsupervised Speaker Adaptation Using Confidence Measure
     year: '2003'
   pM3wc_YAAAAJ:ItCcSVbosjYC:
-    citations: 22
+    citations: 23
     title: Machine learning aided hybrid beamforming in massive-MIMO millimeter wave systems
     year: '2019'
   pM3wc_YAAAAJ:IzSxq8zsU60C:
@@ -530,7 +530,7 @@ papers:
     title: Communication complexity for distributed scheduling in wireless ad hoc networks
     year: '2008'
   pM3wc_YAAAAJ:KEHW5XCvxlQC:
-    citations: 494
+    citations: 493
     title: A Denial-of-Service Jamming Game for Remote State Monitoring in Smart grid
     year: Unknown Year
   pM3wc_YAAAAJ:KT8ZRUJCfZgC:
@@ -546,7 +546,7 @@ papers:
     title: Defense against Primary User Emulation Attacks in the Wireless Cognitive Sensor Networks of Smart Grids
     year: '2012'
   pM3wc_YAAAAJ:LOUAI8Maf04C:
-    citations: 33
+    citations: 34
     title: Message passing based distributed learning for joint resource allocation in millimeter wave heterogeneous networks
     year: '2019'
   pM3wc_YAAAAJ:LPThKXBVh8AC:
@@ -558,7 +558,7 @@ papers:
     title: Adaptive modulation in networked control systems with application in smart grids
     year: '2013'
   pM3wc_YAAAAJ:LRFP056OPQYC:
-    citations: 130
+    citations: 135
     title: Effect of water-sediment regulation of the Xiaolangdi reservoir on the concentrations, characteristics, and fluxes of suspended sediment and organic carbon in the Yellow River
     year: '2016'
   pM3wc_YAAAAJ:Liyi5BL3lGIC:
@@ -588,7 +588,7 @@ papers:
   pM3wc_YAAAAJ:M3NEmzRMIkIC:
     citations: 11
     title: Combating false reports for secure networked control in smart grid via trustiness evaluation
-    year: '2011'
+    year: '2010'
   pM3wc_YAAAAJ:M3ejUd6NZC8C:
     citations: 30
     title: Queuing analysis of dynamic spectrum access subject to interruptions from primary users
@@ -602,7 +602,7 @@ papers:
     title: Learning the spectrum using collaborative filtering in directional millimeter wave networks
     year: '2017'
   pM3wc_YAAAAJ:MTvNnY4oB4UC:
-    citations: 567
+    citations: 572
     title: 'Indoor positioning systems based on visible light communication: State of the art'
     year: '2017'
   pM3wc_YAAAAJ:Mojj43d5GZwC:
@@ -644,17 +644,17 @@ papers:
   pM3wc_YAAAAJ:OCfQP8wG_bYC:
     citations: 6
     title: Flow based fair scheduling in multi-hop wireless networks
-    year: '2015'
+    year: '2010'
   pM3wc_YAAAAJ:OQ9zOo_0HogC:
     citations: 2
     title: 'Reinforcement learning for energy efficient wireless transmission: Green communications for a green hand transmitter'
     year: '2012'
   pM3wc_YAAAAJ:OQl_d5IwB8YC:
-    citations: 208
+    citations: 207
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:OU6Ihb5iCvQC:
-    citations: 35
+    citations: 36
     title: Routing-toward-primary-user attack and belief propagation-based defense in cognitive radio networks
     year: '2012'
   pM3wc_YAAAAJ:OuH2OPd7BD0C:
@@ -818,7 +818,7 @@ papers:
     title: 'Multi-agent Q-learning of channel selection in multi-user cognitive radio systems: A two by two case'
     year: '2009'
   pM3wc_YAAAAJ:UpNrVCuNAQgC:
-    citations: 2
+    citations: 4
     title: Turbo Bi-Static Radar in OTFS-Based Joint Communications and Sensing
     year: '2023'
   pM3wc_YAAAAJ:Uq2dEd23X6oC:
@@ -846,7 +846,7 @@ papers:
     title: Cellular system based integrated sensing and communications for wide-area monitoring
     year: '2023'
   pM3wc_YAAAAJ:VTFyEh86FacC:
-    citations: 139
+    citations: 140
     title: 'Dogfight in spectrum: Combating primary user emulation attacks in cognitive radio systems, part i: Known channel statistics'
     year: '2010'
   pM3wc_YAAAAJ:Vc_znlpJgV8C:
@@ -878,7 +878,7 @@ papers:
     title: Message Passing Bayeisan compressed sensing algorith
     year: '2010'
   pM3wc_YAAAAJ:WVyJMqqT78IC:
-    citations: 39
+    citations: 40
     title: Space-time bayesian compressed spectrum sensing for wideband cognitive radio networks
     year: '2010'
   pM3wc_YAAAAJ:WZ_cLlf9y-MC:
@@ -902,7 +902,7 @@ papers:
     title: Finding the K Largest Metrics in Broadcast Network
     year: Unknown Year
   pM3wc_YAAAAJ:X5l_rLnKZGsC:
-    citations: 7
+    citations: 8
     title: 'Cognitive radio communication and networking: Principles and practice. Hoboken'
     year: '2012'
   pM3wc_YAAAAJ:XBKgkpziyI4C:
@@ -966,7 +966,7 @@ papers:
     title: 'UWB signal acquisition in positioning systems: Bayesian compressed sensing with redundancy'
     year: '2009'
   pM3wc_YAAAAJ:Zph67rFs4hoC:
-    citations: 134
+    citations: 135
     title: Communication requirement for reliable and secure state estimation and control in smart grid
     year: '2011'
   pM3wc_YAAAAJ:_-QPzy9dQywC:
@@ -1118,7 +1118,7 @@ papers:
     title: 'Socially optimal queuing control in cognitive radio networks subject to service interruptions: To queue or not to queue?'
     year: '2011'
   pM3wc_YAAAAJ:fDGgXDFiZ8cC:
-    citations: 6
+    citations: 7
     title: Interferometry based integrated sensing and communications with imperfect synchronizations
     year: '2021'
   pM3wc_YAAAAJ:fMXnj547Ig4C:
@@ -1155,8 +1155,8 @@ papers:
     year: '2022'
   pM3wc_YAAAAJ:geHnlv5EZngC:
     citations: 25
-    title: Decoding the'Nature Encoded'Messages for Distributed Energy Generation Control in Microgrid
-    year: '2011'
+    title: Decoding thenature encoded'messages for distributed energy generation control in microgrid
+    year: '2010'
   pM3wc_YAAAAJ:gjFswcl-TRQC:
     citations: 4
     title: 'Universal quickest sensing of spectrum change in millimeter wave communications: a data driven approach'
@@ -1186,7 +1186,7 @@ papers:
     title: 'Belief propagation based spectrum sensing subject to dynamic primary user activities: Phantom of quickest detection'
     year: '2013'
   pM3wc_YAAAAJ:hMod-77fHWUC:
-    citations: 141
+    citations: 142
     title: Defeating primary user emulation attacks using belief propagation in cognitive radio networks
     year: '2012'
   pM3wc_YAAAAJ:hMsQuOkrut0C:
@@ -1206,7 +1206,7 @@ papers:
     title: Extracting typical users' moving patterns using deep learning
     year: '2012'
   pM3wc_YAAAAJ:hqOjcs7Dif8C:
-    citations: 89
+    citations: 91
     title: "Dogfight in spectrum: Combating primary user emulation attacks in cognitive radio systems\u2014Part II: Unknown channel statistics"
     year: '2010'
   pM3wc_YAAAAJ:hwNCEvm7wWMC:
@@ -1264,7 +1264,7 @@ papers:
   pM3wc_YAAAAJ:j8SEvjWlNXcC:
     citations: 0
     title: Tone selection in communication networks
-    year: '2016'
+    year: '2014'
   pM3wc_YAAAAJ:jMMVlDWEh88C:
     citations: 42
     title: Distributed data traffic scheduling with awareness of dynamics state in cyber physical systems with application in smart grid
@@ -1294,7 +1294,7 @@ papers:
     title: Influence models of cascading failure and frequency oscillation in the power grid
     year: '2013'
   pM3wc_YAAAAJ:k1VWYO0b_yEC:
-    citations: 4
+    citations: 6
     title: 'Spectrum coexistence issues: Challenges and research directions'
     year: '2013'
   pM3wc_YAAAAJ:kM62dKQefFYC:
@@ -1312,13 +1312,13 @@ papers:
   pM3wc_YAAAAJ:l1aDfRkTpg0C:
     citations: 1
     title: 'ISAC-Motivated Interference Elimination in Wireless Communication Networks-Part II: Performance Analysis'
-    year: '2023'
+    year: '2024'
   pM3wc_YAAAAJ:lCzQINcJmSsC:
-    citations: 208
+    citations: 207
     title: QoS Routing in Smart Grid
     year: '2010'
   pM3wc_YAAAAJ:lDjdc_zZTkYC:
-    citations: 73
+    citations: 75
     title: "A cyber\u2013physical\u2013social perspective on future smart distribution systems"
     year: '2022'
   pM3wc_YAAAAJ:lSLTfruPkqcC:
@@ -1390,7 +1390,7 @@ papers:
     title: Communications via frequency-modulated continuous-wave radar in millimeter wave band
     year: '2019'
   pM3wc_YAAAAJ:oNWKmzIW71IC:
-    citations: 17
+    citations: 16
     title: Equivalent salt deposit density optical fiber sensor for transmission lines in power grid
     year: '2016'
   pM3wc_YAAAAJ:ol8SaEdbPKgC:
@@ -1426,11 +1426,11 @@ papers:
     title: 'Time stamp attack in smart grid: Physical mechanism and damage analysis'
     year: '2012'
   pM3wc_YAAAAJ:prKdS1S5QkMC:
-    citations: 217
+    citations: 219
     title: 'Real-time detection of false data injection in smart grid networks: An adaptive CUSUM method and analysis'
     year: '2014'
   pM3wc_YAAAAJ:ptKmfjyPmtwC:
-    citations: 64
+    citations: 63
     title: Optimal eigenvalue weighting detection for multi-antenna cognitive radio networks
     year: '2016'
   pM3wc_YAAAAJ:pyW8ca7W8N0C:
@@ -1456,9 +1456,9 @@ papers:
   pM3wc_YAAAAJ:qfe1Ex3B87sC:
     citations: 107
     title: Securing collaborative spectrum sensing against untrustworthy secondary users in cognitive radio networks
-    year: '2009'
+    year: '2010'
   pM3wc_YAAAAJ:qjMakFHDy7sC:
-    citations: 208
+    citations: 209
     title: Collaborative spectrum sensing from sparse observations in cognitive radio networks
     year: '2011'
   pM3wc_YAAAAJ:qoKP6G9emhYC:
@@ -1514,7 +1514,7 @@ papers:
     title: Collaborative Spectrum Sensing from Sparse Observations Using Matrix Completion
     year: '2009'
   pM3wc_YAAAAJ:tTtrriHYXHoC:
-    citations: 2
+    citations: 3
     title: 'Trellis waveform shaping for sidelobe reduction in integrated sensing and communications: A duality with papr mitigation'
     year: '2026'
   pM3wc_YAAAAJ:tYsYx133VjAC:
@@ -1526,7 +1526,7 @@ papers:
     title: Joint electrical load modeling and forecasting based on sparse bayesian learning for the smart grid
     year: '2011'
   pM3wc_YAAAAJ:thyth0UfN58C:
-    citations: 8
+    citations: 9
     title: 'Ghost image due to mmWave radar interference: Experiment, mitigation and leverage'
     year: '2020'
   pM3wc_YAAAAJ:tkaPQYYpVKoC:
@@ -1538,7 +1538,7 @@ papers:
     title: Attack-proof collaborative spectrum sensing in cognitive radio networks
     year: '2009'
   pM3wc_YAAAAJ:u5HHmVD_uO8C:
-    citations: 187
+    citations: 188
     title: Sparse event detection in wireless sensor networks using compressive sensing
     year: '2009'
   pM3wc_YAAAAJ:uENYxwZKF5gC:
@@ -1554,9 +1554,9 @@ papers:
     title: 'Protecting cognitive radio networks against primary users: a backup path approach'
     year: '2011'
   pM3wc_YAAAAJ:u_MDJdmB8EcC:
-    citations: 323
+    citations: 334
     title: Learning-based predictive beamforming for integrated sensing and communication in vehicular networks
-    year: '2022'
+    year: '2021'
   pM3wc_YAAAAJ:ufrVoPGSRksC:
     citations: 65
     title: An FPGA implementation for solving least square problem
@@ -1598,7 +1598,7 @@ papers:
     title: Test criteria for context-free grammars
     year: '2004'
   pM3wc_YAAAAJ:w9tx7uSMUCIC:
-    citations: 59
+    citations: 60
     title: Collaborative spectrum sensing from sparse observations using matrix completion for cognitive radio networks
     year: '2010'
   pM3wc_YAAAAJ:wAQeTaZWqpYC:
